@@ -1,0 +1,22 @@
+
+Step-1: Prepare Dataset
+
+ 1.Collect Dataset
+ 2. Annotation
+
+--Collect Dataset : Download from google or anywhere
+
+
+--Annotation: Online -> cvat.ai
+
+-- Dataset Structure-> images and labels folder 
+-- both folder have to a train folder and that folder include all corresponding img and annotations file and runs folder autometically created
+
+
+
+-- For train we can use terminal or python code
+-- Github repo: https://github.com/ultralytics/ultralytics
+
+
+-- Epochs have to more so that we prediction become perfect
+
